@@ -1,0 +1,58 @@
+.note{
+    width: 20%;
+    padding: 25px;
+    margin: 30px auto;
+    border: 3px solid #b497cb;
+    border-radius: 10px;
+}
+.form{
+    width: 20%;
+    margin: 35px auto;
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    height: 78px;
+    width: 1512px;
+    background: #d2b5f7;
+}
+.Title{
+    margin-top: -60px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px; 
+    color: #ffffff;
+}
+img{
+    margin-top: 10px;
+    margin-left: 625px;
+}
+.btnDelete{
+    cursor: pointer;
+    background: #EADFF8;
+    border: none;
+    border-radius: 9px;
+    width: 100px;
+    height: 30px;
+    color: #573374;
+}
+input{
+    width: 145px;
+    height: 30px;
+    background: hsl(271, 64%, 92%);
+    border: none;
+    border-radius: 3px;
+    color: #4a0086;
+    
+}
+button{
+    cursor: pointer;
+    background: #ba8bff;
+    border: none;
+    border-radius: 9px;
+    width: 100px;
+    height: 34px;
+    color: #ffffff;
+}
